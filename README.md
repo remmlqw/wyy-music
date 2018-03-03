@@ -3,6 +3,8 @@
 **项目前端使用 jQuery**
 **项目后端使用 Node + Express + MySQL**
 
+**项目演示地址 http://liqianwen.remmli.com:8084/**
+
 ### 功能模块
 - 播放控制
     - 播放列表控制（下一首、上一首、暂停）
