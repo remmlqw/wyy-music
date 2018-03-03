@@ -1,6 +1,7 @@
 # 模仿网易云音乐PC端应用
 
 **项目前端使用 jQuery**
+
 **项目后端使用 Node + Express + MySQL**
 
 ***
